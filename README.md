@@ -2,7 +2,7 @@
 
 1. [JavaScript](https://github.com/purbanski-deftcode/knowledge-hub#1javascript)
 2. [NodeJS](https://github.com/purbanski-deftcode/knowledge-hub#2nodejs)
-
+3. [Python](https://github.com/purbanski-deftcode/knowledge-hub#2python)
 
 ## 1.Javascript
 - [JavaScript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
