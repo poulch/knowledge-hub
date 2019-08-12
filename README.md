@@ -6,6 +6,7 @@
 3. [NodeJS](https://github.com/purbanski-deftcode/knowledge-hub#3nodejs)
 4. [Python](https://github.com/purbanski-deftcode/knowledge-hub#4python)
 5. [NestJS](https://github.com/purbanski-deftcode/knowledge-hub#5nestjs)
+6. [Backend]()
 
 ## 1.Soft skills
 - [How to ask good questions as a developer](https://www.freecodecamp.org/news/how-to-ask-good-questions-as-a-developer-9f71ff809b63/)
@@ -28,6 +29,9 @@
 ## 5.NestJS
 - [NestJSX](https://github.com/nestjsx)
 
-## 5. Tools
+## 5.Tools
 - [Code Editor Snippet Generator](https://snippet-generator.app/)
 - [NGROK - Localhost tunnels](https://ngrok.com/)
+
+## 6.Backend
+- [The Twelve-Factor App](https://12factor.net/)
