@@ -1,24 +1,29 @@
 # Knowledge Hub
 
-1. [JavaScript](https://github.com/purbanski-deftcode/knowledge-hub#1javascript)
-2. [NodeJS](https://github.com/purbanski-deftcode/knowledge-hub#2nodejs)
-3. [Python](https://github.com/purbanski-deftcode/knowledge-hub#3python)
-4. [NestJS](https://github.com/purbanski-deftcode/knowledge-hub#4nestjs)
+1. [Soft skills](https://github.com/purbanski-deftcode/knowledge-hub#1softskills)
+2. [JavaScript](https://github.com/purbanski-deftcode/knowledge-hub#2javascript)
+<br/> 2.1 [JavaScript Books]()
+3. [NodeJS](https://github.com/purbanski-deftcode/knowledge-hub#3nodejs)
+4. [Python](https://github.com/purbanski-deftcode/knowledge-hub#4python)
+5. [NestJS](https://github.com/purbanski-deftcode/knowledge-hub#5nestjs)
 
-## 1.Javascript
+## 1.Soft skills
+- [How to ask good questions as a developer](https://www.freecodecamp.org/news/how-to-ask-good-questions-as-a-developer-9f71ff809b63/)
+
+## 2.Javascript
 - [JavaScript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
-### 1.1 JavaScript Books
+### 2.1 JavaScript Books
 - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Eloquent JavaScript](https://eloquentjavascript.net)
 
-## 2.NodeJS
+## 3.NodeJS
 - [NodeJS logging made right (with trace IDs)](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce)
 
-## 3.Python
+## 4.Python
 - [Corey Schafer - YT tutorial](https://www.youtube.com/user/schafer5/playlists)
 
-## 4.NestJS
+## 5.NestJS
 - [NestJSX](https://github.com/nestjsx)
 
 ## 5. Tools
