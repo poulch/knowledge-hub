@@ -35,3 +35,4 @@
 
 ## 6.Backend
 - [The Twelve-Factor App](https://12factor.net/)
+- [REST API Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
