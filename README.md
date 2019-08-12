@@ -6,7 +6,7 @@
 3. [NodeJS](https://github.com/purbanski-deftcode/knowledge-hub#3nodejs)
 4. [Python](https://github.com/purbanski-deftcode/knowledge-hub#4python)
 5. [NestJS](https://github.com/purbanski-deftcode/knowledge-hub#5nestjs)
-6. [Backend]()
+6. [Backend](https://github.com/purbanski-deftcode/knowledge-hub#6backend)
 
 ## 1.Soft skills
 - [How to ask good questions as a developer](https://www.freecodecamp.org/news/how-to-ask-good-questions-as-a-developer-9f71ff809b63/)
