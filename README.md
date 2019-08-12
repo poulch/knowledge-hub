@@ -20,6 +20,7 @@
 
 ## 3.NodeJS
 - [NodeJS logging made right (with trace IDs)](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce)
+- [NodeJS Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
 ## 4.Python
 - [Corey Schafer - YT tutorial](https://www.youtube.com/user/schafer5/playlists)
