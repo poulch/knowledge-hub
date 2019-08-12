@@ -2,7 +2,7 @@
 
 1. [Soft skills](https://github.com/purbanski-deftcode/knowledge-hub#1softskills)
 2. [JavaScript](https://github.com/purbanski-deftcode/knowledge-hub#2javascript)
-<br/> 2.1 [JavaScript Books]()
+<br/> 2.1 [JavaScript Books](https://github.com/purbanski-deftcode/knowledge-hub/blob/master/README.md#21-javascript-books)
 3. [NodeJS](https://github.com/purbanski-deftcode/knowledge-hub#3nodejs)
 4. [Python](https://github.com/purbanski-deftcode/knowledge-hub#4python)
 5. [NestJS](https://github.com/purbanski-deftcode/knowledge-hub#5nestjs)
