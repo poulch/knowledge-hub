@@ -9,3 +9,6 @@
 
 ## 2.NodeJS
 - [NodeJS logging made right (with trace IDs)](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce)
+
+## 3.Python
+- [Python YouTube tutorial - Corey Schafer](https://www.youtube.com/user/schafer5/playlists)
