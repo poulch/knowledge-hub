@@ -8,7 +8,7 @@
 5. [NestJS](https://github.com/purbanski-deftcode/knowledge-hub#5nestjs)
 6. [Backend](https://github.com/purbanski-deftcode/knowledge-hub#6backend)
 7. [Angular](https://github.com/purbanski-deftcode/knowledge-hub#7angular)
-<br/> 7.1 [NGRX](https://github.com/purbanski-deftcode/knowledge-hub/blob/master/README.md#71-ngrx)
+<br/> 7.1 [NGRX](https://github.com/purbanski-deftcode/knowledge-hub/blob/master/README.md#71ngrx)
 
 ## 1.Soft skills
 - [How to ask good questions as a developer](https://www.freecodecamp.org/news/how-to-ask-good-questions-as-a-developer-9f71ff809b63/)
