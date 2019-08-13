@@ -1,4 +1,4 @@
-# Knowledge Hub [PL/ENG]
+# Knowledge Hub
 
 1. [Soft skills](https://github.com/purbanski-deftcode/knowledge-hub#1softskills)
 2. [JavaScript](https://github.com/purbanski-deftcode/knowledge-hub#2javascript)
