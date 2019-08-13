@@ -2,7 +2,7 @@
 
 1. [Soft skills](https://github.com/purbanski-deftcode/knowledge-hub#1softskills)
 2. [JavaScript](https://github.com/purbanski-deftcode/knowledge-hub#2javascript)
-<br/> 2.1 [JavaScript Books](https://github.com/purbanski-deftcode/knowledge-hub/blob/master/README.md#21-javascript-books)
+<br/> 2.1 [JavaScript Books](https://github.com/purbanski-deftcode/knowledge-hub/blob/master/README.md#21javascript-books)
 3. [NodeJS](https://github.com/purbanski-deftcode/knowledge-hub#3nodejs)
 4. [Python](https://github.com/purbanski-deftcode/knowledge-hub#4python)
 5. [NestJS](https://github.com/purbanski-deftcode/knowledge-hub#5nestjs)
@@ -41,6 +41,7 @@
 - [REST API Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
 ## 7.Angular
+
 ### 7.1.NGRX
 - [NGRX + Facades](https://medium.com/@thomasburlesonIA/ngrx-facades-better-state-management-82a04b9a1e39)
 - [NGRX - Best practices for enterprise angular applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
