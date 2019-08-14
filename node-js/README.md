@@ -2,6 +2,7 @@
 
 - [NodeJS logging made right (with trace IDs)](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce)
 - [NodeJS Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- :large_orange_diamond: [You don't know NodeJS](https://medium.com/edge-coders/you-dont-know-node-6515a658a1ed)
 
 ## Event emitter
 - [NodeJS Event Emitter explained](https://medium.com/technoetics/node-js-event-emitter-explained-d4f7fd141a1a)
