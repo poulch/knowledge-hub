@@ -4,9 +4,9 @@
 - :large_orange_diamond: [Database Normal Forms YT](https://www.youtube.com/watch?v=UrYLYV7WSHM)
 
 ## SQL
+- [SQL Bolt](https://sqlbolt.com/) [Beginner]
 - :large_orange_diamond: [SQL tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
 - :large_orange_diamond: [Learn SQL](https://www.tutorialspoint.com/sql/index.htm)
-- :large_orange_diamond: [SQL Bolt](https://sqlbolt.com/)
 
 ## PostgreSQL
 - :large_orange_diamond: [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
