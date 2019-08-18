@@ -14,3 +14,4 @@
 10. [React](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/react)
 11. [Databases](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/databases)
 12. [DevOps](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/devops)
+13. [Electron](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/electron)
