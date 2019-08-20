@@ -4,7 +4,7 @@
 - [Database Normal Forms YT](https://www.youtube.com/watch?v=UrYLYV7WSHM) 🔶
 
 ## SQL
-- [SQL Bolt](https://sqlbolt.com/) [Beginner] ✅
+- [SQL Bolt](https://sqlbolt.com/) [Basic] ✅
 - [SQL tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) 🔶
 - [Learn SQL](https://www.tutorialspoint.com/sql/index.htm) 🔶
 

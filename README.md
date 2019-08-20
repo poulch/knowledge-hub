@@ -1,9 +1,14 @@
 # Knowledge Hub
 
-✅ - This icon means that specific source was verified <br/>
-🔥 - This icon means that specific source is recommended <br/>
-🔶 - This icon means that specific source was not verified yet <br/>
+## Legend:
+[Basic] - Source for beginners (juniors) <br/>
+[Advanced] - Source for advanced developers (regular/mid+) <br/>
+[Expert] - Source for experts (senior+) <br/>
+✅ - Source verified <br/>
+🔥 - Source recommended <br/>
+🔶 - Source not verified yet <br/>
 
+## Content: 
 1. [General](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/general)
 2. [Soft skills](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/soft-skills)
 3. [JavaScript](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/javascript)
