@@ -1,8 +1,8 @@
 # Knowledge Hub
 
-✅ - This icon means that specific source was verified
-🔥 - This icon means that specific source is recommended
-🔶 - This icon means that specific source was not verified yet
+✅ - This icon means that specific source was verified <br/>
+🔥 - This icon means that specific source is recommended <br/>
+🔶 - This icon means that specific source was not verified yet <br/>
 
 1. [General](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/general)
 2. [Soft skills](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/soft-skills)
