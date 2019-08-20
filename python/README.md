@@ -1,9 +1,8 @@
 # Python
 
-- [Corey Schafer - YT playlists](https://www.youtube.com/user/schafer5/playlists)
+- [Corey Schafer - YT playlists](https://www.youtube.com/user/schafer5/playlists) [Basic/Advanced] ✅🔥
 - [Sentdex - YT playlists](https://www.youtube.com/user/sentdex/playlists)
 - [Automate The Boring Stuff](http://automatetheboringstuff.com/)
-- [Learn Python The Hard Way](https://learnpythonthehardway.org/)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
 ## OOP in Python

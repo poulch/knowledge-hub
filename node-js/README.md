@@ -1,6 +1,6 @@
 # NodeJS
 
-- [NodeJS logging made right (with trace IDs)](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce) 
+- [NodeJS logging made right (with trace IDs)](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce)
 - [NodeJS Best Practices](https://github.com/goldbergyoni/nodebestpractices) ✅🔥
 
 ## Event emitter
