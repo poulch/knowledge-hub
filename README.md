@@ -1,9 +1,10 @@
 # Knowledge Hub
 
 ## Legend:
-[Basic] - Source for beginners (juniors) <br/>
-[Advanced] - Source for advanced developers (regular/mid+) <br/>
-[Expert] - Source for experts (senior+) <br/>
+**[Basic]** - Source for beginners (juniors) <br/>
+**[Advanced]** - Source for advanced developers (regular/mid+) <br/>
+**[Expert]** - Source for experts (senior+) <br/><br/>
+
 ✅ - Source verified <br/>
 🔥 - Source recommended <br/>
 🔶 - Source not verified yet <br/>
