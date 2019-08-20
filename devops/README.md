@@ -1,7 +1,7 @@
 # DevOps
 
 ## Security
-- :large_orange_diamond: [DDOS bootcamp](https://www.ddosbootcamp.com/)
+- [DDOS bootcamp](https://www.ddosbootcamp.com/) 🔶
 
 ## Linux
 
@@ -28,17 +28,17 @@
 - [Creating a linux service with systemd](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6)
 
 ### Bash scripting
-- :large_orange_diamond: [LearnShell](https://www.learnshell.org/)
-- :large_orange_diamond: [ShellScript](https://www.shellscript.sh/)
+- [LearnShell](https://www.learnshell.org/) 🔶
+- [ShellScript](https://www.shellscript.sh/) 🔶
 
 ### CRON
 - [Beginner guide to user CRON on linux](https://www.maketecheasier.com/beginner-guide-use-cron-linux/)
 - [CronTab generator](https://crontab-generator.org/)
 
 ### VIM
-- :large_orange_diamond: [OpenVim](https://www.openvim.com/)
-- :large_orange_diamond: [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
-- :large_orange_diamond: [Vim Cheat Sheet](https://vim.rtorr.com/)
+- [OpenVim](https://www.openvim.com/) 🔶
+- [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/) 🔶
+- [Vim Cheat Sheet](https://vim.rtorr.com/) 🔶
 
 ### TMUX
 - [A gentle introduction to Tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)

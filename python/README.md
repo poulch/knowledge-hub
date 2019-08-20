@@ -18,7 +18,7 @@
 - [A quick guide to Python generators and yield statements](https://medium.com/@jasonrigden/a-quick-guide-to-python-generators-and-yield-statements-89a4162c0ef8)
 - [Introduction to Python generators](https://realpython.com/introduction-to-python-generators/)
 - [Python generators](https://stackabuse.com/python-generators/)
-- :large_orange_diamond: [Python generators tutorial](https://www.dataquest.io/blog/python-generators-tutorial/)
+- [Python generators tutorial](https://www.dataquest.io/blog/python-generators-tutorial/) 🔶
 
 ## Modules and packages
 - [Python modules and packages](https://realpython.com/python-modules-packages/)
@@ -27,7 +27,7 @@
 
 ## Asynchronous python
 - [An introduction to async programming in Python](https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb)
-- :large_orange_diamond: [Async IO Python](https://realpython.com/async-io-python/)
+- [Async IO Python](https://realpython.com/async-io-python/) 🔶
 - [Asynchronous Python](https://hackernoon.com/asynchronous-python-45df84b82434)
 
 ## List comprehensions

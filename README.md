@@ -1,6 +1,8 @@
 # Knowledge Hub
 
-:large_orange_diamond: - This icon means that specific source was not verified yet
+✅ - This icon means that specific source was verified
+🔥 - This icon means that specific source is recommended
+🔶 - This icon means that specific source was not verified yet
 
 1. [General](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/general)
 2. [Soft skills](https://github.com/purbanski-deftcode/knowledge-hub/tree/master/soft-skills)

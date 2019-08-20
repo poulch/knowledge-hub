@@ -9,6 +9,6 @@
 - [A look at server sent events](https://medium.com/conectric-networks/a-look-at-server-sent-events-54a77f8d6ff7)
 
 # Cookies
-- :large_orange_diamond: [Sessions and cookies](https://medium.com/@piraveenaparalogarajah/sessions-and-cookies-2c0919552f29)
-- :large_orange_diamond: [What are browser cookies](https://medium.com/@seralahthan/what-are-browser-cookies-51db620bcce2)
-- :large_orange_diamond: [Cookies guide](https://www.whoishostingthis.com/resources/cookies-guide/)
+- [Sessions and cookies](https://medium.com/@piraveenaparalogarajah/sessions-and-cookies-2c0919552f29) 🔶
+- [What are browser cookies](https://medium.com/@seralahthan/what-are-browser-cookies-51db620bcce2) 🔶
+- [Cookies guide](https://www.whoishostingthis.com/resources/cookies-guide/) 🔶
