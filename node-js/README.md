@@ -2,13 +2,13 @@
 
 - [NodeJS logging made right (with trace IDs)](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce)
 - [NodeJS Best Practices](https://github.com/goldbergyoni/nodebestpractices) ✅🔥
-- [The definitive NodeJS handbook](https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e/) 🔶
+- [The definitive NodeJS handbook](https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e/) [Basic] ✅
 - [Implementing the onion architecture in NodeJS with TS and InversifyJS](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad) 🔶
 - [Advanced ModeJS project structure tutorial](https://blog.codeship.com/advanced-node-js-project-structure-tutorial/) 🔶
 - [An exhaustive guide to writing dockerfiles for NodeJS web apps](https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4/) 🔶
 - [Bulletproof NodeJS project architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf) 🔶
-- [Clean node](https://medium.com/the-node-js-collection/clean-node-1df635d176f7) 🔶
 - [Production ready NodeJS rest api setup using TS, Postgres and Redis](https://itnext.io/production-ready-node-js-rest-apis-setup-using-typescript-postgresql-and-redis-a9525871407) 🔶
+- [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs) ✅
 
 ## CLI
 - [Building CLI applications with NodeJS](https://scotch.io/tutorials/building-cli-applications-with-nodejs) 🔶
