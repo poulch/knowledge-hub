@@ -6,7 +6,7 @@
 ## SQL
 - [SQL Bolt](https://sqlbolt.com/) [Basic] ✅
 - [SQL tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) 🔶
-- [Learn SQL](https://www.tutorialspoint.com/sql/index.htm) 🔶
+- [Learn SQL](https://www.tutorialspoint.com/sql/index.htm) [Basic]✅
 
 ## PostgreSQL
 - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/) 🔶
