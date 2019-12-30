@@ -30,6 +30,7 @@
 - [Angular performance tips](http://www.angular.love/2018/07/23/angular-performance-tips/)
 - [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Angular runtime performance guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
+- [How to optimize Angular applications](https://itnext.io/how-to-optimize-angular-applications-99bfab0f0b7c)
 
 ## Routing
 - [Angular Docs - Router](https://angular.io/guide/router)
@@ -39,6 +40,9 @@
 - [Angular routing series pillar 3 - Lazy loading, aot and preloading](https://blog.angularindepth.com/angular-router-series-pillar-3-lazy-loading-aot-and-preloading-a23a046c51f0)
 - [Angular router series - Secondary outlets primer](https://blog.angularindepth.com/angular-router-series-secondary-outlets-primer-139206595e2)
 - [Angular routing - Reusing common layout for pages from different modules](https://blog.angularindepth.com/angular-routing-reusing-common-layout-for-pages-from-different-modules-440a23f86b57)
+- [Angular routing - A better pattern for large scale apps](https://medium.com/@shairez/angular-routing-a-better-pattern-for-large-scale-apps-f2890c952a18)
+- [Better route guard redirects](https://juristr.com/blog/2018/11/better-route-guard-redirects/)
+- [The 7 step process of angular router navigation](https://www.jvandemo.com/the-7-step-process-of-angular-router-navigation/)
 
 ## Security
 - [Angular docs - Security](https://angular.io/guide/security)
@@ -50,6 +54,7 @@
 - [Attribute directives with angular forms](https://netbasal.com/attribute-directives-angular-forms-b40503643089)
 - [Never again be confused when implementing control value accessor in angular form](https://blog.angularindepth.com/never-again-be-confused-when-implementing-controlvalueaccessor-in-angular-forms-93b9eee9ee83)
 - [Angular nested reactive forms using CVAs](https://blog.angularindepth.com/angular-nested-reactive-forms-using-cvas-b394ba2e5d0d)
+- [NGX-Formly](https://formly.dev/guide/getting-started)
 
 ## RXJS
 - [LearnRXJS](https://www.learnrxjs.io/ )
@@ -64,9 +69,14 @@
 - [Understanding the publish and share operators](https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635)
 
 ## Best practices and scaling
-- [A scalable Angular architecture - Part 1](https://blog.strongbrew.io/A-scalable-angular2-architecture/)
-- [A scalable Angular architecture - Part 2](https://blog.strongbrew.io/A-scalable-angular-architecture-part2/)
-- [6 best practices pro tips for angular CLI better developer experience](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81)
+- [A scalable Angular architecture - Part 1](https://blog.strongbrew.io/A-scalable-angular2-architecture/) 🔶
+- [A scalable Angular architecture - Part 2](https://blog.strongbrew.io/A-scalable-angular-architecture-part2/) 🔶
+- [6 best practices pro tips for angular CLI better developer experience](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81) 🔶
+- [Best practices in Angular](https://itnext.io/best-practices-in-angular-a8926fa02ae2) 🔶
+- [Angular Architecture Best Practices](https://angular-academy.com/angular-architecture-best-practices/) 🔶
+- [The ten commandments of Angular development](https://christianlydemann.com/the-ten-commandments-of-angular-development/) 🔶
+- [How to define a highly scalable folder structure for your Angular project](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7) 🔶
+- [Thoughtful component design (VIDEO)](https://www.youtube.com/watch?v=0BikjL858OQ) 🔶
 
 ## NGRX
 - [NGRX + Facades](https://medium.com/@thomasburlesonIA/ngrx-facades-better-state-management-82a04b9a1e39)
@@ -80,3 +90,7 @@
 - [NGRX - Tips and tricks](https://blog.angularindepth.com/ngrx-tips-tricks-69feb20a42a7)
 - [The benefits of app state normalization in Angular](https://blog.angularindepth.com/the-benefits-of-application-state-normalization-in-angular-f93392ca9f44)
 - [NgRx: Action Creators redesigned](https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da) 🔶
+
+
+## Content projection
+- [Dynamic components with content projection](https://blog.ng-book.com/dynamic-components-with-content-projection-in-angular/)
